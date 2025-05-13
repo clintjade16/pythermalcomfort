@@ -1,0 +1,19 @@
+name: clintjade
+
+off: [push]
+
+jobs:
+  build:
+    runs-on:Samsung s20 ultra
+    strategy:
+      matrix:
+    
+    steps:
+    - uses: 
+    - name:jadeclint
+      with:
+    
+    - name:Samsung s20 ultra
+      run:
+      
+      run:
